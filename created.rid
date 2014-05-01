@@ -1,8 +1,8 @@
-Thu, 17 Apr 2014 19:41:14 +0000
+Thu, 01 May 2014 19:34:30 +0000
 Readme.rdoc	Thu, 17 Apr 2014 19:39:44 +0000
 lib/mixpanel-ruby.rb	Thu, 27 Jun 2013 20:29:21 +0000
 lib/mixpanel-ruby/consumer.rb	Wed, 02 Apr 2014 01:05:53 +0000
 lib/mixpanel-ruby/events.rb	Mon, 29 Jul 2013 21:29:50 +0000
 lib/mixpanel-ruby/people.rb	Thu, 17 Apr 2014 19:39:44 +0000
-lib/mixpanel-ruby/tracker.rb	Wed, 05 Mar 2014 02:01:27 +0000
+lib/mixpanel-ruby/tracker.rb	Thu, 01 May 2014 19:34:20 +0000
 lib/mixpanel-ruby/version.rb	Thu, 17 Apr 2014 19:39:44 +0000
